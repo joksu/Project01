@@ -1,6 +1,5 @@
 body {
 	background: #eee;
-	margin: 0 auto;
 }
 
 td, tr {
@@ -20,6 +19,7 @@ h3 {
 }
 
 table {
+	margin: 0 auto;
 	background: #fff;
 	border-spacing:0;
 	border: 6px solid #eee;
