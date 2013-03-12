@@ -2,6 +2,11 @@ body {
 	background: #eee;
 }
 
+header {
+	width: 1066px;
+	margin: 0 auto;
+}
+
 td, tr {
 	border: 6px solid #444;
 	margin: 0;
@@ -11,6 +16,7 @@ td, tr {
 h1, h2 {
 	font-family: Helvetica, Arial, sans-serif;
 	background: #fff;
+	display: inline;
 }
 
 h3 {
