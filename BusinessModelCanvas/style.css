@@ -1,0 +1,45 @@
+body {
+	background: #eee;
+}
+
+td, tr {
+	border: 6px solid #444;
+	margin: 0;
+	padding: 0 !important;
+}
+
+h1, h2 {
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+h3 {
+	font-style: italic;
+	margin: 10px;
+	padding-top: 0;
+}
+
+table {
+	background: #fff;
+	border-spacing:0;
+	border: 6px solid #eee;
+	border-collapse:collapse;
+}
+
+div {
+	//border: 1px solid #999;
+}
+
+.vertical1 {
+	width: 200px;
+	height: 200px;
+}
+
+.vertical2 {
+	width: 200px;
+	height: 412px;	
+}
+
+.horizontal3 {
+	width: 524px;
+	height: 150px;
+}
