@@ -8,4 +8,4 @@ Minna Rundgren
 Joose Väinölä
 
 Concept: 
-Opensource beauty application & open data platform.
+Opensource beauty application, open data platform & travel service.
