@@ -11911,7 +11911,15 @@
 		</g>
 	</g>
 </g>
-<rect x="1207.929" y="215.685" transform="matrix(0.9903 -0.1389 0.1389 0.9903 -23.9871 176.1638)" fill="#FCF68B" width="84.999" height="88.583"/>
+<g>
+	
+		<image overflow="visible" opacity="0.15" width="122" height="124" xlink:href="B79C5C8E.png"  transform="matrix(1 0 0 1 1193.5945 203.6816)">
+	</image>
+	<g>
+		<path fill="#FCF68B" d="M1298.667,297.937c2.057,3.701-60.005,0.653-82.571,10.994c-6,2.75-13.905-86.916-13.905-86.916
+			l84.176-11.803C1286.366,210.213,1289.261,281.015,1298.667,297.937z"/>
+	</g>
+</g>
 <text transform="matrix(0.9903 -0.1389 0.1389 0.9903 1218.0769 266.9736)" font-family="'ComicSansMS'" font-size="14">Travellers</text>
 <rect x="364.178" y="518.24" transform="matrix(0.998 0.0632 -0.0632 0.998 36.3659 -24.578)" fill="#FCF68B" width="84.999" height="88.583"/>
 <text transform="matrix(0.998 0.0632 -0.0632 0.998 378.5192 556.5878)"><tspan x="0" y="0" font-family="'ComicSansMS'" font-size="14">Big Data</tspan><tspan x="18.232" y="16.799" font-family="'ComicSansMS'" font-size="14">DB</tspan></text>
