@@ -331,10 +331,10 @@
 <path fill="none" d=""/>
 <path fill="none" d=""/>
 <g id="layer2" inkscape:label="Editable text" inkscape:groupmode="layer">
-	<text transform="matrix(1 0 0 1 119.6705 1008.9294)" font-family="'TitilliumText25L-250wt'" font-size="14">Name Surname - ...</text>
-	<text transform="matrix(1 0 0 1 88.5826 973.4958)" font-family="'TitilliumText25L-250wt'" font-size="14">Name of the project</text>
-	<text transform="matrix(1 0 0 1 440.8931 973.4958)" font-family="'TitilliumText25L-250wt'" font-size="14">http://www.google.com</text>
-	<text transform="matrix(1 0 0 1 493.8116 1008.9294)" font-family="'TitilliumText25L-250wt'" font-size="14">Community / Place / Organization</text>
+	<text transform="matrix(1 0 0 1 119.6705 1008.9294)" font-family="'TitilliumText25L-250wt'" font-size="14">IDBM Storaenso Team </text>
+	<text transform="matrix(1 0 0 1 88.5826 973.4958)" font-family="'TitilliumText25L-250wt'" font-size="14">Physical Cloud</text>
+	<text transform="matrix(1 0 0 1 440.8931 973.4958)" font-family="'TitilliumText25L-250wt'" font-size="14">www.IDBM.fi</text>
+	<text transform="matrix(1 0 0 1 493.8116 1008.9294)" font-family="'TitilliumText25L-250wt'" font-size="14">Design open innovation / Helsinki / Alto Uni</text>
 </g>
 <g>
 	
@@ -423,4 +423,49 @@
 		<polyline fill="none" stroke="#7F7F7F" stroke-width="4.252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="1.4173,11.3386" points="
 		329.683,862.014 329.683,881.973 379.355,881.973 	"/>
 </g>
+<image overflow="visible" width="22" height="24" xlink:href="glyphish-icons/icons/38-airplane.png"  transform="matrix(0.9999 0 0 0.9999 991.7657 492.5544)">
+</image>
+<image overflow="visible" width="26" height="22" xlink:href="glyphish-icons/icons/37-suitcase.png"  transform="matrix(0.9999 0 0 0.9999 281.0001 465.9998)">
+</image>
+<image overflow="visible" width="24" height="21" xlink:href="glyphish-icons/icons/111-user.png"  transform="matrix(0.9999 0 0 0.9999 845.1026 480.613)">
+</image>
+<image overflow="visible" width="32" height="21" xlink:href="glyphish-icons/icons/112-group.png"  transform="matrix(0.9999 0 0 0.9999 265.002 596.9978)">
+</image>
+<image overflow="visible" width="32" height="21" xlink:href="glyphish-icons/icons/112-group.png"  transform="matrix(0.9999 0 0 0.9999 841.1026 408.9978)">
+</image>
+<image overflow="visible" width="22" height="25" xlink:href="glyphish-icons/icons/168-upload-photo-2.png"  transform="matrix(1 0 0 1 226.0001 523.9998)">
+</image>
+<image overflow="visible" width="14" height="24" xlink:href="glyphish-icons/icons/177-building.png"  transform="matrix(1 0 0 1 995.7647 441.7947)">
+</image>
+<image overflow="visible" width="26" height="25" xlink:href="glyphish-icons/icons/189-plant.png"  transform="matrix(1 0 0 1 534.0987 160.5017)">
+</image>
+<image overflow="visible" width="20" height="24" xlink:href="glyphish-icons/icons/91-beaker-2.png"  transform="matrix(0.9999 0 0 0.9999 446.8897 161.0037)">
+</image>
+<image overflow="visible" width="24" height="16" xlink:href="glyphish-icons/icons/56-cloud.png"  transform="matrix(0.9999 0 0 0.9999 651.0001 313.9978)">
+</image>
+<image overflow="visible" width="24" height="16" xlink:href="glyphish-icons/icons/12-eye.png"  transform="matrix(0.9999 0 0 0.9999 332.0001 192.9998)">
+</image>
+<image overflow="visible" width="22" height="26" xlink:href="glyphish-icons/icons/24-gift.png"  transform="matrix(0.9999 0 0 0.9999 948.9258 336.6863)">
+</image>
+<image overflow="visible" width="16" height="26" xlink:href="glyphish-icons/icons/07-map-marker.png"  transform="matrix(0.9999 0 0 0.9999 162.0001 184.9998)">
+</image>
+<text transform="matrix(1 0 0 1 845.1026 514.2937)" font-family="'AbadiMT-CondensedLight'" font-size="14">USER</text>
+<text transform="matrix(1 0 0 1 825.1026 447.7947)" font-family="'AbadiMT-CondensedLight'" font-size="14">USER’s FRIENDS</text>
+<text transform="matrix(1 0 0 1 991.7657 482.0559)" font-family="'AbadiMT-CondensedLight'" font-size="14">HOTEL</text>
+<text transform="matrix(1 0 0 1 452.8882 378.6848)" font-family="'AbadiMT-CondensedLight'" font-size="14">COSMATICS PROVIDER</text>
+<text transform="matrix(1 0 0 1 642.1026 344.4944)" font-family="'AbadiMT-CondensedLight'" font-size="14">BIG DATA</text>
+<text transform="matrix(1 0 0 1 418.8433 200.9993)" font-family="'AbadiMT-CondensedLight'" font-size="14">DERMATOLOGIST</text>
+<text transform="matrix(1 0 0 1 526.296 200.9993)" font-family="'AbadiMT-CondensedLight'" font-size="14">BIOLOGIST</text>
+<text transform="matrix(1 0 0 1 637.1011 520.7004)" font-family="'AbadiMT-CondensedLight'" font-size="14">BEAUTY APP</text>
+<text transform="matrix(1 0 0 1 446.8897 313.9983)" font-family="'AbadiMT-CondensedLight'" font-size="14"> PACKAGING PROVIDER</text>
+<text transform="matrix(1 0 0 1 933.5176 378.6848)" font-family="'AbadiMT-CondensedLight'" font-size="14">PACKAGING Co.</text>
+<text transform="matrix(1 0 0 1 988.7657 534.281)" font-family="'AbadiMT-CondensedLight'" font-size="14">AIRPORT</text>
+<image overflow="visible" width="24" height="17" xlink:href="glyphish-icons/icons/123-id-card.png"  transform="matrix(0.9999 0 0 0.9999 269.0015 335.9958)">
+</image>
+<image overflow="visible" width="22" height="22" xlink:href="glyphish-icons/icons/53-house.png"  transform="matrix(0.9999 0 0 0.9999 487.6382 277.3025)">
+</image>
+<image overflow="visible" width="26" height="22" xlink:href="glyphish-icons/icons/190-bank.png"  transform="matrix(1 0 0 1 483.1382 339.0701)">
+</image>
+<image overflow="visible" width="22" height="28" xlink:href="glyphish-icons/icons/176-ipad.png"  transform="matrix(1 0 0 1 652.9971 474.2048)">
+</image>
 </svg>
