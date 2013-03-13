@@ -423,49 +423,83 @@
 		<polyline fill="none" stroke="#7F7F7F" stroke-width="4.252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="1.4173,11.3386" points="
 		329.683,862.014 329.683,881.973 379.355,881.973 	"/>
 </g>
-<image overflow="visible" width="22" height="24" xlink:href="glyphish-icons/icons/38-airplane.png"  transform="matrix(0.9999 0 0 0.9999 991.7657 492.5544)">
+<image overflow="visible" width="22" height="24" xlink:href="glyphish-icons/icons/38-airplane.png"  transform="matrix(0.9999 0 0 0.9999 636.5538 484.9763)">
 </image>
-<image overflow="visible" width="26" height="22" xlink:href="glyphish-icons/icons/37-suitcase.png"  transform="matrix(0.9999 0 0 0.9999 281.0001 465.9998)">
+<image overflow="visible" width="26" height="22" xlink:href="glyphish-icons/icons/37-suitcase.png"  transform="matrix(0.9999 0 0 0.9999 486.9752 474.1462)">
 </image>
-<image overflow="visible" width="24" height="21" xlink:href="glyphish-icons/icons/111-user.png"  transform="matrix(0.9999 0 0 0.9999 845.1026 480.613)">
+<image overflow="visible" width="24" height="21" xlink:href="glyphish-icons/icons/111-user.png"  transform="matrix(0.9999 0 0 0.9999 778.252 504.8025)">
 </image>
-<image overflow="visible" width="32" height="21" xlink:href="glyphish-icons/icons/112-group.png"  transform="matrix(0.9999 0 0 0.9999 265.002 596.9978)">
+<image overflow="visible" width="32" height="21" xlink:href="glyphish-icons/icons/112-group.png"  transform="matrix(0.9999 0 0 0.9999 928.96 284.2693)">
 </image>
-<image overflow="visible" width="32" height="21" xlink:href="glyphish-icons/icons/112-group.png"  transform="matrix(0.9999 0 0 0.9999 841.1026 408.9978)">
+<image overflow="visible" width="32" height="21" xlink:href="glyphish-icons/icons/112-group.png"  transform="matrix(0.9999 0 0 0.9999 855.8536 505.7722)">
 </image>
-<image overflow="visible" width="22" height="25" xlink:href="glyphish-icons/icons/168-upload-photo-2.png"  transform="matrix(1 0 0 1 226.0001 523.9998)">
+<image overflow="visible" width="22" height="25" xlink:href="glyphish-icons/icons/168-upload-photo-2.png"  transform="matrix(1 0 0 1 1275.7559 732.8005)">
 </image>
-<image overflow="visible" width="14" height="24" xlink:href="glyphish-icons/icons/177-building.png"  transform="matrix(1 0 0 1 995.7647 441.7947)">
+<image overflow="visible" width="14" height="24" xlink:href="glyphish-icons/icons/177-building.png"  transform="matrix(1 0 0 1 640.5528 434.2166)">
 </image>
-<image overflow="visible" width="26" height="25" xlink:href="glyphish-icons/icons/189-plant.png"  transform="matrix(1 0 0 1 534.0987 160.5017)">
+<image overflow="visible" width="26" height="25" xlink:href="glyphish-icons/icons/189-plant.png"  transform="matrix(1 0 0 1 625.0533 169.0017)">
 </image>
-<image overflow="visible" width="20" height="24" xlink:href="glyphish-icons/icons/91-beaker-2.png"  transform="matrix(0.9999 0 0 0.9999 446.8897 161.0037)">
+<image overflow="visible" width="20" height="24" xlink:href="glyphish-icons/icons/91-beaker-2.png"  transform="matrix(0.9999 0 0 0.9999 537.8443 169.5037)">
 </image>
-<image overflow="visible" width="24" height="16" xlink:href="glyphish-icons/icons/56-cloud.png"  transform="matrix(0.9999 0 0 0.9999 651.0001 313.9978)">
+<image overflow="visible" width="24" height="16" xlink:href="glyphish-icons/icons/56-cloud.png"  transform="matrix(0.9999 0 0 0.9999 730.3546 289.7693)">
 </image>
-<image overflow="visible" width="24" height="16" xlink:href="glyphish-icons/icons/12-eye.png"  transform="matrix(0.9999 0 0 0.9999 332.0001 192.9998)">
+<image overflow="visible" width="24" height="16" xlink:href="glyphish-icons/icons/12-eye.png"  transform="matrix(0.9999 0 0 0.9999 487.9747 352.613)">
 </image>
-<image overflow="visible" width="22" height="26" xlink:href="glyphish-icons/icons/24-gift.png"  transform="matrix(0.9999 0 0 0.9999 948.9258 336.6863)">
+<image overflow="visible" width="22" height="26" xlink:href="glyphish-icons/icons/24-gift.png"  transform="matrix(0.9999 0 0 0.9999 333.9166 131.4519)">
 </image>
-<image overflow="visible" width="16" height="26" xlink:href="glyphish-icons/icons/07-map-marker.png"  transform="matrix(0.9999 0 0 0.9999 162.0001 184.9998)">
+<image overflow="visible" width="16" height="26" xlink:href="glyphish-icons/icons/07-map-marker.png"  transform="matrix(0.9999 0 0 0.9999 1367.8008 416.9998)">
 </image>
-<text transform="matrix(1 0 0 1 845.1026 514.2937)" font-family="'AbadiMT-CondensedLight'" font-size="14">USER</text>
-<text transform="matrix(1 0 0 1 825.1026 447.7947)" font-family="'AbadiMT-CondensedLight'" font-size="14">USER’s FRIENDS</text>
-<text transform="matrix(1 0 0 1 991.7657 482.0559)" font-family="'AbadiMT-CondensedLight'" font-size="14">HOTEL</text>
-<text transform="matrix(1 0 0 1 452.8882 378.6848)" font-family="'AbadiMT-CondensedLight'" font-size="14">COSMATICS PROVIDER</text>
-<text transform="matrix(1 0 0 1 642.1026 344.4944)" font-family="'AbadiMT-CondensedLight'" font-size="14">BIG DATA</text>
-<text transform="matrix(1 0 0 1 418.8433 200.9993)" font-family="'AbadiMT-CondensedLight'" font-size="14">DERMATOLOGIST</text>
-<text transform="matrix(1 0 0 1 526.296 200.9993)" font-family="'AbadiMT-CondensedLight'" font-size="14">BIOLOGIST</text>
-<text transform="matrix(1 0 0 1 637.1011 520.7004)" font-family="'AbadiMT-CondensedLight'" font-size="14">BEAUTY APP</text>
-<text transform="matrix(1 0 0 1 446.8897 313.9983)" font-family="'AbadiMT-CondensedLight'" font-size="14"> PACKAGING PROVIDER</text>
-<text transform="matrix(1 0 0 1 933.5176 378.6848)" font-family="'AbadiMT-CondensedLight'" font-size="14">PACKAGING Co.</text>
-<text transform="matrix(1 0 0 1 988.7657 534.281)" font-family="'AbadiMT-CondensedLight'" font-size="14">AIRPORT</text>
-<image overflow="visible" width="24" height="17" xlink:href="glyphish-icons/icons/123-id-card.png"  transform="matrix(0.9999 0 0 0.9999 269.0015 335.9958)">
+<text transform="matrix(1 0 0 1 778.252 538.4841)" font-family="'AbadiMT-CondensedLight'" font-size="14">USER</text>
+<text transform="matrix(1 0 0 1 839.8536 544.5701)" font-family="'AbadiMT-CondensedLight'" font-size="14">USER COMUNITY</text>
+<text transform="matrix(1 0 0 1 903.4385 479.095)" font-family="'AbadiMT-CondensedLight'" font-size="14">FASHION BLOGGER</text>
+<text transform="matrix(1 0 0 1 636.5538 474.4783)" font-family="'AbadiMT-CondensedLight'" font-size="14">HOTEL</text>
+<text transform="matrix(1 0 0 1 293.4571 308.2263)" font-family="'AbadiMT-CondensedLight'" font-size="14">COSMATICS PROVIDER</text>
+<text transform="matrix(1 0 0 1 454.6309 527.4539)" font-family="'AbadiMT-CondensedLight'" font-size="14">LOGISTIC ORGANIZER</text>
+<text transform="matrix(1 0 0 1 454.6309 382.6125)" font-family="'AbadiMT-CondensedLight'" font-size="14">PHYSICAL INTERNET</text>
+<text transform="matrix(1 0 0 1 721.4571 320.2649)" font-family="'AbadiMT-CondensedLight'" font-size="14">BIG DATA</text>
+<text transform="matrix(1 0 0 1 509.7979 209.4993)" font-family="'AbadiMT-CondensedLight'" font-size="14">DERMATOLOGIST</text>
+<text transform="matrix(1 0 0 1 617.2505 209.4993)" font-family="'AbadiMT-CondensedLight'" font-size="14">BIOLOGIST</text>
+<text transform="matrix(1 0 0 1 836.9053 393.9084)" font-family="'AbadiMT-CondensedLight'" font-size="14">BEAUTY APP</text>
+<text transform="matrix(1 0 0 1 915.0733 321.2942)" font-family="'AbadiMT-CondensedLight'" font-size="14">DEVELOPERS</text>
+<text transform="matrix(1 0 0 1 918.5401 386.5593)" font-family="'AbadiMT-CondensedLight'" font-size="14">UI DESIGNER</text>
+<text transform="matrix(1 0 0 1 633.5538 577.3269)" font-family="'AbadiMT-CondensedLight'" font-size="14">HOME</text>
+<text transform="matrix(1 0 0 1 293.3287 173.4504)" font-family="'AbadiMT-CondensedLight'" font-size="14">PACKAGING PROVIDER</text>
+<text transform="matrix(1 0 0 1 633.5538 526.7039)" font-family="'AbadiMT-CondensedLight'" font-size="14">AIRPORT</text>
+<image overflow="visible" width="24" height="17" xlink:href="glyphish-icons/icons/123-id-card.png"  transform="matrix(0.9999 0 0 0.9999 1318.7568 544.7947)">
 </image>
-<image overflow="visible" width="22" height="22" xlink:href="glyphish-icons/icons/53-house.png"  transform="matrix(0.9999 0 0 0.9999 487.6382 277.3025)">
+<image overflow="visible" width="22" height="22" xlink:href="glyphish-icons/icons/53-house.png"  transform="matrix(0.9999 0 0 0.9999 637.0552 540.6306)">
 </image>
-<image overflow="visible" width="26" height="22" xlink:href="glyphish-icons/icons/190-bank.png"  transform="matrix(1 0 0 1 483.1382 339.0701)">
+<image overflow="visible" width="26" height="22" xlink:href="glyphish-icons/icons/190-bank.png"  transform="matrix(1 0 0 1 329.7056 268.6111)">
 </image>
-<image overflow="visible" width="22" height="28" xlink:href="glyphish-icons/icons/176-ipad.png"  transform="matrix(1 0 0 1 652.9971 474.2048)">
+<image overflow="visible" width="22" height="28" xlink:href="glyphish-icons/icons/176-ipad.png"  transform="matrix(1 0 0 1 852.8008 347.4128)">
 </image>
+<image overflow="visible" width="24" height="20" xlink:href="glyphish-icons/icons/98-palette.png"  transform="matrix(0.9999 0 0 0.9999 936.4268 350.6638)">
+</image>
+<image overflow="visible" width="30" height="23" xlink:href="glyphish-icons/icons/163-glasses-1.png"  transform="matrix(1 0 0 1 924.4825 437.3494)">
+</image>
+<polyline fill="none" stroke="#000000" stroke-width="2.8346" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="2.8346" points="
+	915.33,305.767 863.108,305.767 863.108,344.681 "/>
+<line fill="none" stroke="#000000" stroke-width="2.8346" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="2.8346" x1="944.958" y1="344.681" x2="944.958" y2="321.294"/>
+<line fill="none" stroke="#000000" stroke-width="2.8346" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="2.8346" x1="928.96" y1="362.545" x2="874.852" y2="362.545"/>
+<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="742.353,325.224 742.353,360.545 852.801,360.613 "/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="499.974" y1="386.559" x2="499.974" y2="466.681"/>
+<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="499.973,344.681 499.973,303.192 721.457,303.192 "/>
+<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="744.095,284.27 742.353,228.681 547.843,228.681 
+	547.843,210.997 "/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="640.553" y1="228.681" x2="640.553" y2="210.997"/>
+<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M863.801,397.681"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="863.801" y1="496.143" x2="863.801" y2="402.681"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="918.54" y1="446.217" x2="863.801" y2="446.217"/>
+<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="664.595,453.969 691.595,453.969 691.595,496.975 
+	664.595,496.975 "/>
+<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="691.595,476.575 748.595,476.575 748.595,562.628 
+	669.595,562.628 "/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="748.595" y1="516.271" x2="770.595" y2="516.271"/>
+<line x1="806.103" y1="516.271" x2="846.595" y2="516.271"/>
+<line x1="344.915" y1="178.194" x2="344.915" y2="248.165"/>
+<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="344.915,318.932 344.915,496.143 473.595,496.143 "/>
+<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="547.843,163.681 547.843,144.45 592.948,144.45 
+	638.053,144.45 638.053,163.681 "/>
+<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="592.948,144.45 592.948,119.681 460.595,119.681 
+	460.595,284.27 368.232,284.27 "/>
 </svg>
