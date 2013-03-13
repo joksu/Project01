@@ -12,6 +12,8 @@ Concept:
 Opensource beauty application, open data platform & travel service.
 
 See the Business Model Canvas at http://htmlpreview.github.com/?https://github.com/DesigningOpenInnovation/Project01/blob/master/BusinessModelCanvas/business.model.canvas.svg
+
 See the System Map at http://htmlpreview.github.com/?https://github.com/DesigningOpenInnovation/Project01/blob/master/System%20map/system_map.svg
+
 --
 OBSOLETE - See the Business Model Canvas at http://htmlpreview.github.com/?https://github.com/DesigningOpenInnovation/Project01/blob/master/BusinessModelCanvas/bmcanvas.html
