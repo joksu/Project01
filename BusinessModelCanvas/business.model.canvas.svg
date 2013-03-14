@@ -321,14 +321,8 @@
 	
 		<path id="path25279" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" fill="none" stroke="#CFCFCF" stroke-width="1.5027" stroke-dasharray="1.5027,4.508" d="
 		M442.865,973.496c298.714,0,318.946,0,318.946,0"/>
-<<<<<<< HEAD
-	
-		<path id="path25281" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" fill="none" stroke="#CFCFCF" stroke-width="1.3717" stroke-dasharray="1.3717,4.1152" d="
-		M121.691,1008.929c232.334,0,268.073,0,268.073,0"/>
-=======
 	<path id="path25281" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" fill="none" d="M121.691,1008.929
 		c232.334,0,268.073,0,268.073,0"/>
->>>>>>> Business model canvas according to draft + few pink sticky notes for partner values and relations
 	
 		<path id="path25301" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" fill="none" stroke="#CFCFCF" stroke-width="1.3717" stroke-dasharray="1.3717,4.1152" d="
 		M495.239,1008.929c232.334,0,267.929,0,267.929,0"/>
@@ -11886,11 +11880,7 @@
 			<rect id="rect35285" x="903.544" y="538.584" fill="#FFFFFF" stroke="#808080" stroke-width="0.7087" stroke-linejoin="round" width="248.031" height="159.447"/>
 	</g>
 	<g id="layer2" inkscape:label="Editable text" inkscape:groupmode="layer">
-<<<<<<< HEAD
-		<text transform="matrix(1 0 0 1 119.6706 1008.9296)" font-family="'ArialMT'" font-size="14">Your Mom</text>
-=======
 		<text transform="matrix(1 0 0 1 119.6706 1008.9296)" font-family="'ArialMT'" font-size="14"> Eero, JiaKun, Joose, Minna</text>
->>>>>>> Business model canvas according to draft + few pink sticky notes for partner values and relations
 		<text transform="matrix(1 0 0 1 88.5827 973.496)" font-family="'ArialMT'" font-size="14">PhysicalCloud</text>
 		<text transform="matrix(1 0 0 1 440.8932 973.496)" font-family="'ArialMT'" font-size="14">https://www.github.com/DesigningOpenInnovation/Project01/</text>
 		<text transform="matrix(1 0 0 1 493.8112 1008.9296)" font-family="'ArialMT'" font-size="14">PhysicalCloud</text>
@@ -11899,11 +11889,7 @@
 		
 			<rect id="rect35243" x="336.614" y="219.685" fill="#FFFFFF" stroke="#808080" stroke-width="0.7087" stroke-linejoin="round" width="248.032" height="177.166"/>
 		
-<<<<<<< HEAD
-			<rect id="rect35283" x="336.614" y="503.15" fill="#FFFFFF" stroke="#808080" stroke-width="0.7087" stroke-linejoin="round" width="248.032" height="194.881"/>
-=======
 			<rect id="rect35283" x="338.739" y="503.4" fill="#FFFFFF" stroke="#808080" stroke-width="0.7087" stroke-linejoin="round" width="248.032" height="194.881"/>
->>>>>>> Business model canvas according to draft + few pink sticky notes for partner values and relations
 		<g id="flowRoot36386">
 		</g>
 		<g id="flowRoot36394">
@@ -11924,14 +11910,6 @@
 		</g>
 	</g>
 </g>
-<<<<<<< HEAD
-<path fill="#FCF68B" d="M1298.667,297.937c2.057,3.701-60.005,0.653-82.571,10.994c-6,2.75-13.905-86.916-13.905-86.916
-	l84.176-11.803C1286.366,210.213,1289.261,281.015,1298.667,297.937z"/>
-<text transform="matrix(0.9903 -0.1389 0.1389 0.9903 1218.0769 266.9736)" font-family="'ComicSansMS'" font-size="14">Travellers</text>
-<path fill="#FCF68B" d="M445.841,609.604c1.261,4.043-58.882-11.569-83.081-6.035c-6.434,1.472,4.069-87.927,4.069-87.927
-	l84.816,5.57C451.646,521.212,440.076,591.122,445.841,609.604z"/>
-<text transform="matrix(0.998 0.0632 -0.0632 0.998 378.5192 556.5878)"><tspan x="0" y="0" font-family="'ComicSansMS'" font-size="14">Big Data</tspan><tspan x="18.232" y="16.799" font-family="'ComicSansMS'" font-size="14">DB</tspan></text>
-=======
 <g>
 	<path fill="#474747" d="M360.008,522.08c1.149,0.208,92.52,80.697,92.52,80.697s0.067,0.225,0.008,0.234
 		c-18.675,3.355-65.11,2.675-83.117,7.631C358.527,613.642,360.008,522.08,360.008,522.08z"/>
@@ -12226,5 +12204,4 @@
 		l84.979,1.856C1289.946,565.461,1281.444,635.81,1288.01,654.023z"/>
 	<text transform="matrix(0.9998 0.0195 -0.0195 0.9998 1213.2908 603.8994)"><tspan x="0" y="0" font-family="'ComicSansMS'" font-size="14">Cosmetics</tspan><tspan x="10.56" y="16.8" font-family="'ComicSansMS'" font-size="14">brands</tspan></text>
 </g>
->>>>>>> Business model canvas according to draft + few pink sticky notes for partner values and relations
 </svg>
